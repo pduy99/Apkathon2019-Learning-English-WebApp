@@ -1,6 +1,8 @@
 # Apkathon19 Competition Project
 ------------------------------------------------------
+* Nhóm 4 thành viên
 * Sản phẩm đạt giải khuyến khích (thứ 4/30 đội tham gia)
+* Team of 4 people
 * Get consolation prize (4/30 teams)
 
 ## English for Future
